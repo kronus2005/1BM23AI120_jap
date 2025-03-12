@@ -1,0 +1,23 @@
+Welcome to the gym
+Enter number of members:
+1
+Enter your name
+rishi
+Enter your age:
+19
+Enter your membership Status:
+true
+Enter your membership duration:
+12
+Name: rishi
+Age: 19
+Status: true
+Gym fee is 12000.0 for 12 months
+w b w b w b w b 
+b w b w b w b w 
+w b w b w b w b 
+b w b w b w b w 
+w b w b w b w b 
+b w b w b w b w 
+w b w b w b w b 
+b w b w b w b w 
